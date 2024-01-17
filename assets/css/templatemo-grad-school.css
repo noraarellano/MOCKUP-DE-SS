@@ -895,12 +895,14 @@ section.courses {
 }
 
 section.courses .item img {
+  width: 300px;
     border-top-right-radius: 5px;
     border-top-left-radius: 5px;
 }
 
 section.courses .item .down-content {
     padding: 30px;
+    width: 300px;
     background-color: #fff;
     border-bottom-right-radius: 5px;
     border-bottom-left-radius: 5px;
